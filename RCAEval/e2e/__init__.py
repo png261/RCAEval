@@ -67,6 +67,7 @@ if is_modern_py():
         "tracerca": ["tracerca"],
         "torai": ["torai"],
         "eventadl": ["eventadl"],
+        "sharp": ["sharp"],
     }
     for _module, _names in _METHOD_MODULES.items():
         try:

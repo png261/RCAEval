@@ -60,6 +60,7 @@ if is_modern_py():
         "mscred",
         "nsigma",
         "rcd",
+        "sharp",
         "ntlr_pagerank",
         "ntlr_randomwalk",
         "pc_pagerank",
